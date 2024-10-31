@@ -1,0 +1,18 @@
+.impar{
+    background-color: #f7628e;
+    font-family: Verdana,DejaVu Sans ,sans-serif;
+}
+
+#second{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.three{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: #090;
+    font-weight: bold;
+}
